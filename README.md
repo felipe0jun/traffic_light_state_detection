@@ -1,6 +1,9 @@
 
 # Traffic Light State Detection
 
+![download](https://github.com/user-attachments/assets/1d08f3ff-7c36-44f1-b2f6-1c421013908d)
+
+
 Developed by **Anderson Sales, Felipe Jun Hatsumura, and Igor Caetano** as part of the **INE410121** course at **UFSC**.
 
 ## 📌 Objective
